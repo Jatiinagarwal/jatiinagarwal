@@ -10,8 +10,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Statistics]
 - [SQL]
 - [Machine Learning]
-- [Power BI]
-- [ETL]
+- [NLP]
+- [LLM]
+- [GenAI]
 
 
 
