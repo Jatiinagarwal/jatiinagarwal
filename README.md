@@ -5,9 +5,10 @@
 Hello, I'm Jatin. Data Scientist with expertise in data analysis and Preprocessing, Machine Learning Models, NLP, and GenAI. 
 
 - Querying data using SQL.
-- Create models and perform preprocessing using Python and different libraries.
-- Developing End-to-End Applications.
-- AI,ML,NLP,GenAI.
+- Statistical analysis.
+- Data preprocessing and Feature Engineering using Python and different libraries.
+- Creating Machine Learning models and model evaluation. 
+- Developing End-to-End AI Applications.
 
 ### 📚 Projects
 
