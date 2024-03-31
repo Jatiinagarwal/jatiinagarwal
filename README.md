@@ -18,8 +18,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL
-- Visualization: Power BI,Matplotlib,Seaborn
-- Technology: ML,NLP,LLM,GenAI
+- Visualization: Power BI, Matplotlib, Seaborn
+- Technology: ML, NLP, LLM, GenAI
 
 ### 👋🏻 Connect with Me
 
