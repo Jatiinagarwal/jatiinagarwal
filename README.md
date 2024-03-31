@@ -24,4 +24,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Jatii
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/jatinagarwal03/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~01678fce7d5a2534e6)
