@@ -1,21 +1,3 @@
-### Hi there 👋
-
-
-# 🗺 Jatin's Portfolio
-
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
-
-## 📚 Table of Contents
-- [Python]
-- [Statistics]
-- [SQL]
-- [Machine Learning]
-- [NLP]
-- [LLM]
-- [GenAI]
-
-
-
 ## 🙋🏻‍♀️ Introducing Myself
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/Jatiinagarwal/Assets/blob/main/linkedinbanner.jpg/)
@@ -31,7 +13,7 @@ Hello, I'm Jatin. Data Scientist with expertise in data analysis and Preprocessi
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
-### 🛠️ Tools
+### 🛠️ Tools and Technology
 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL
