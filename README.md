@@ -1,57 +1,118 @@
+<!-- ========================================================= -->
+
+<!--                   JATIN AGGARWAL                          -->
+
+<!--                  GitHub Profile README                   -->
+
+<!-- ========================================================= -->
+
 <!-- Profile Banner -->
 
 <p align="center">
   <a href="https://jatin-portfolio-beryl.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Jatiinagarwal/Assets/main/linkedinbanner.jpg" alt="Jatin Aggarwal | AI Engineer" width="100%">
+    <img
+      src="https://raw.githubusercontent.com/Jatiinagarwal/Assets/main/linkedinbanner.jpg"
+      alt="Jatin Aggarwal - AI Engineer"
+      width="100%"
+    />
   </a>
 </p>
 
-<!-- Header -->
+<!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Aggarwal+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+GenAI;LLM+Applications+%7C+RAG+%7C+AI+Backends;Building+Reliable+AI-powered+Systems" alt="Typing SVG">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Aggarwal+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+GenAI;LLM+Applications+%7C+RAG+%7C+AI+Backends;Building+Reliable+AI-Powered+Systems"
+    alt="Typing SVG"
+  />
 </p>
 
+<!-- Quick Links -->
+
 <p align="center">
+
   <a href="https://jatin-portfolio-beryl.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge"
+      alt="Portfolio"
+    />
   </a>
-  <a href="mailto:agarwaljatin5716@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agarwaljatin5716%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
   <a href="https://www.linkedin.com/in/jatinagarwal03/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Jatin%20Aggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jatiinagarwal&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile Views">
+
+  <a href="mailto:agarwaljatin5716@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/Jatiinagarwal">
+    <img
+      src="https://img.shields.io/badge/GitHub-Jatin%20Aggarwal-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Jatiinagarwal&label=Profile%20Views&color=111827&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm an **AI Engineer** with experience building **LLM-powered applications, agentic AI workflows, RAG systems, and backend services** using Python and FastAPI.
+I'm an **AI Engineer** focused on building **LLM-powered applications, agentic AI workflows, RAG systems, and backend services** using Python and modern AI infrastructure.
 
-Currently at **HCLTech**, where I work on enterprise financial systems in a **Deutsche Bank** environment and build production-oriented AI workflows.
+Currently working at **HCLTech** on enterprise financial systems in a **Deutsche Bank** environment, with hands-on experience in backend engineering, AI workflows, retrieval systems, automation, and production-oriented GenAI applications.
 
-My current focus is on building AI systems that go beyond simple LLM demos — combining **retrieval, orchestration, tool use, backend engineering, guardrails, and evaluation** into reliable applications.
+I enjoy building AI systems beyond simple chatbot demos by combining:
 
-### What I Work On
-
-* 🤖 Agentic AI and LLM orchestration
+* 🤖 Agentic AI & LLM orchestration
 * 🔎 Retrieval-Augmented Generation (RAG)
 * 🧠 LLM-powered applications
-* ⚡ FastAPI and asynchronous backend systems
-* 🗄️ Vector search and retrieval systems
-* 🛡️ AI guardrails and reliable workflows
-* 📊 LLM evaluation and system optimization
+* ⚡ FastAPI & asynchronous backend workflows
+* 🗄️ Vector search & retrieval systems
+* 🛡️ AI guardrails & reliable execution
+* 📊 Evaluation, optimization & observability
 
-🎯 **Currently targeting AI Engineer / Applied AI / GenAI Engineer opportunities at product-based companies.**
+🎯 **Currently focused on AI Engineer / Applied AI / GenAI Engineer opportunities at product-based companies.**
 
 ---
 
-## 🚀 Featured Project
+# 🌐 Portfolio
 
-### 🩺 CareFlow MD
+<p align="center">
+
+<a href="https://jatin-portfolio-beryl.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-Visit%20Website-111827?style=for-the-badge"
+    alt="Visit Portfolio"
+  />
+</a>
+
+</p>
+
+**Portfolio:**
+👉 [jatin-portfolio-beryl.vercel.app](https://jatin-portfolio-beryl.vercel.app/)
+
+My portfolio contains my professional experience, projects, technical work, and AI engineering journey.
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 CareFlow MD
 
 **Doctor-in-the-loop agentic care coordination application** designed to orchestrate healthcare workflows using specialized AI agents.
 
@@ -61,7 +122,7 @@ My current focus is on building AI systems that go beyond simple LLM demos — c
 * 🩺 Patient-context and clinical workflow handling
 * ✅ Approval-gated AI actions
 * 🔐 Audit trails for AI-driven operations
-* ⚙️ Deterministic fallbacks for safer execution
+* ⚙️ Deterministic fallback generation
 * 🔄 Simulated downstream operations including:
 
   * EHR note saving
@@ -74,24 +135,50 @@ My current focus is on building AI systems that go beyond simple LLM demos — c
 
 `Python` `FastAPI` `React` `Vite` `SQLAlchemy` `SQLite` `Agentic AI` `LLMs`
 
-🔗 **[View CareFlow MD on GitHub](https://github.com/Jatiinagarwal?tab=repositories)**
-🌐 **[View Portfolio](https://jatin-portfolio-beryl.vercel.app/)**
+### 🔗 Links
+
+🚀 **[Live Demo](https://agentic-ai-careflow-app-43r1.vercel.app/)**
+💻 **[More Projects on GitHub](https://github.com/Jatiinagarwal?tab=repositories)**
+🌐 **[Portfolio](https://jatin-portfolio-beryl.vercel.app/)**
 
 ---
 
-## 💼 Professional Experience
+## 💎 Diamond Price Prediction System
 
-### HCLTech — AI / Software Engineering
+End-to-end machine learning application for predicting diamond prices using **50K+ records**, feature engineering, model optimization, and a Flask-based application layer.
 
-**Bengaluru, India · Oct 2025 – Present**
+### Highlights
+
+* 📊 50K+ records
+* 🔧 Feature engineering
+* 🤖 Machine learning model optimization
+* 📈 Achieved **R² > 0.97**
+* 🌐 Flask-based application
+
+### Tech Stack
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Flask` `Machine Learning`
+
+### 🔗 Repository
+
+💻 **[View Source Code](https://github.com/Jatiinagarwal/Diamond_price_prediction)**
+
+---
+
+# 💼 Professional Experience
+
+## HCLTech
+
+**Bengaluru, India · Oct 2025 - Present**
 
 Working on enterprise financial systems in a **Deutsche Bank** environment.
 
 ### Production-Oriented AI Work
 
 * Built a **Text-to-SQL platform** using RAG, LLM orchestration, Qdrant-based schema retrieval, asynchronous FastAPI workflows, SQL guardrails, and query-cost checks.
-* Achieved approximately **90% simulated SQL accuracy** and reduced query-authoring time from approximately **6 minutes to under 2 minutes**.
-* Automated Linux server operations using **Python, SSH, and SFTP**, improving recurring file-transfer checks, server monitoring, and operational workflows.
+* Achieved approximately **90% simulated SQL accuracy**.
+* Reduced query-authoring time from approximately **6 minutes to under 2 minutes**.
+* Automated Linux server operations using **Python, SSH, and SFTP** for file-transfer checks, server monitoring, and recurring operational workflows.
 
 ### Engineering Focus
 
@@ -101,112 +188,156 @@ Working on enterprise financial systems in a **Deutsche Bank** environment.
 
 ---
 
-## 🧠 Technical Skills
+# 🧰 Technical Skills
 
-### Languages
+### 🤖 AI & GenAI
 
-`Python` `SQL`
+`LLMs` `Agentic AI` `RAG` `LangGraph` `MCP` `AutoGen` `CrewAI` `Tool Calling` `Prompt Engineering`
 
-### Backend & APIs
+### ⚡ Backend & APIs
 
-`FastAPI` `Flask` `REST APIs` `Async Processing`
+`Python` `FastAPI` `Flask` `REST APIs` `Asynchronous Processing`
 
-### GenAI & Agentic AI
-
-`LLMs` `RAG` `Agentic AI` `LangGraph` `MCP` `AutoGen` `CrewAI` `Prompt Engineering` `Tool Calling`
-
-### AI / ML
+### 🧠 Machine Learning
 
 `Machine Learning` `NLP` `Transformers` `Scikit-learn` `PyTorch` `TensorFlow`
 
-### Data & Retrieval
+### 🗄️ Data & Retrieval
 
-`Pandas` `NumPy` `Vector Databases` `Qdrant` `pgvector` `MySQL`
+`SQL` `MySQL` `Qdrant` `pgvector` `Vector Databases` `Pandas` `NumPy`
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 `AWS` `Docker` `Git` `GitHub` `CI/CD`
 
-### Core Computer Science
+### 💻 Core Computer Science
 
 `Data Structures & Algorithms` `OOP` `System Design`
 
 ---
 
-## 🔬 Current Focus
+# 🔬 Current Engineering Focus
 
 I'm currently going deeper into:
 
-* Agent reliability and failure handling
-* LLM and RAG evaluation
-* Multi-agent orchestration
-* Tool-using AI systems
-* Retrieval quality and vector search
-* AI observability and tracing
-* Latency and cost optimization
-* Secure and production-oriented GenAI systems
+* 🧪 LLM and RAG evaluation
+* 🤖 Agent reliability and failure handling
+* 🔧 Multi-agent orchestration
+* 🔎 Retrieval quality and vector search
+* 🛡️ Secure and reliable AI workflows
+* 📊 AI observability and tracing
+* ⚡ Latency and cost optimization
+* 🏗️ Production-oriented GenAI system design
 
 ---
 
-## 📈 Engineering Direction
+# 🧭 Engineering Direction
 
 ```text
-       User / Business Problem
-                 │
-                 ▼
-        LLM / Agent Workflow
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-     Retrieval          Tools
-        │                 │
-        └────────┬────────┘
-                 ▼
-          Backend / APIs
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-    Guardrails         Evaluation
-        │                 │
-        └────────┬────────┘
-                 ▼
-          Reliable AI Product
+                  User / Business Problem
+                           │
+                           ▼
+                    LLM / Agent Layer
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+         Retrieval                    Tools
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                    Backend / APIs
+                           │
+                 ┌─────────┴─────────┐
+                 ▼                   ▼
+             Guardrails         Evaluation
+                 │                   │
+                 └─────────┬─────────┘
+                           ▼
+                    Reliable AI Product
 ```
 
-I'm particularly interested in building **AI systems that are measurable, reliable, and useful in real-world workflows**.
+My goal is to build AI systems that are not only capable, but also **reliable, measurable, maintainable, and useful in real-world workflows**.
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-* **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
-* **AWS Academy Graduate — Cloud Foundations**
-* **HackerRank Python — 5★**
-* **HackerRank SQL — Intermediate**
-* **Data Structures and Algorithms for Interviews**
+### ☁️ Microsoft Certified: Azure AI Apps and Agents Developer Associate
+
+🔗 **[View Microsoft Certification](https://learn.microsoft.com/en-us/users/jatinaggarwal-0649/credentials/certification/azure-ai-apps-and-agents-developer-associate?wt.mc_id=certnurture_eml1_email_wwl&tab=credentials-tab)**
 
 ---
 
-## 🎓 Education
+### 🐍 HackerRank Python - 5★
 
-**B.Tech — Computer Science & Engineering**
+🔗 **[View HackerRank Profile](https://www.hackerrank.com/profile/agarwaljatin5716)**
+
+---
+
+### 🗄️ HackerRank SQL - Intermediate
+
+🔗 **[View HackerRank Profile](https://www.hackerrank.com/profile/agarwaljatin5716)**
+
+---
+
+### ☁️ AWS Academy Graduate - Cloud Foundations
+
+🔗 **[View AWS / Credly Credential](https://www.credly.com/badges/da0421d3-9952-4a93-9a07-0ba2905eddfe/linked_in_profile)**
+
+---
+
+### 📊 Data Science Master Program - PW Skills
+
+🔗 **[View Certificate](https://pwskills.com/learn/certificate/40e6be45-232e-4be2-8fe0-01a21bbc6012/)**
+
+---
+
+### 💻 Data Structures and Algorithms for Interviews
+
+🔗 **[View Udemy Certificate](https://www.udemy.com/certificate/UC-e04e0577-373c-4fcb-b7ff-ca006b8eb527/)**
+
+---
+
+# 🎓 Education
+
+**B.Tech - Computer Science & Engineering**
 Meerut Institute of Engineering and Technology
-**CGPA: 7.5 · 2021–2025**
+**CGPA: 7.5 · 2021 - 2025**
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://jatin-portfolio-beryl.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-111827?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/jatinagarwal03/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:agarwaljatin5716@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<a href="https://jatin-portfolio-beryl.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/jatinagarwal03/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:agarwaljatin5716@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/Jatiinagarwal">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
 </p>
 
 ---
