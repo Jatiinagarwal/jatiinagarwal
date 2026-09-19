@@ -1,8 +1,13 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/Jatiinagarwal/Assets/blob/main/linkedinbanner.jpg/)
+<!-- Profile Banner -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jatiinagarwal/Assets/main/linkedinbanner.jpg" alt="Jatin Aggarwal - AI Engineer" width="100%" />
+</p>
 
 <!-- Profile Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Aggarwal+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%26+GenAI;Building+LLM-powered+systems+at+scale;Applied+AI+%7C+Backend+%7C+Multimodal+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Aggarwal+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%7C+GenAI;Building+LLM-powered+products+and+AI+systems;Applied+AI+%7C+RAG+%7C+Multimodal+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,90 +24,159 @@
 
 ## 👋 About Me
 
-I’m an **AI Engineer** with hands-on experience building **agentic AI systems, multimodal LLM applications, and backend data workflows**.
+I'm an **AI Engineer with 1.4+ years of experience** focused on building **agentic AI systems, LLM applications, RAG pipelines, and AI-powered backend services**.
 
-- 💼 Currently at **HCLTech**, working on a **Deutsche Bank** project supporting large-scale financial systems  
-- 🤖 Strong focus on **Agentic AI, GenAI, RAG, and LLM tool orchestration**  
-- 🧠 I enjoy building **end-to-end AI systems**, not just models — from data pipelines to production-ready AI services  
-- 🎯 Actively seeking **AI Engineer / Applied GenAI roles** at product-based companies
+Currently, I'm working at **HCLTech** on a **Deutsche Bank** project, gaining experience in enterprise financial systems and applied AI workflows.
+
+My engineering interests include:
+
+* 🤖 Agentic AI and LLM orchestration
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧠 Multimodal LLM applications
+* 🔧 Tool calling and AI workflows
+* ⚡ FastAPI and AI backend development
+* 📊 LLM evaluation, reliability, and observability
+* 🐳 Dockerized and production-oriented AI services
+
+I enjoy taking AI ideas beyond simple demos and turning them into **usable, testable, and maintainable software systems**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Agentic AI Financial Assistant
-A **multi-agent AI system** for financial intelligence using **LLaMA-3 (70B) on Groq** with autonomous tool selection.
+### 🩺 CareFlow MD
 
-**Key Highlights**
-- Role-based agents for finance analysis and web research  
-- Tool calling with **Yahoo Finance** and **DuckDuckGo**  
-- Structured, source-backed insights using markdown tables  
-- FastAPI-based playground for experimentation and testing  
+An AI-powered healthcare application focused on applying **GenAI and agentic workflows to real-world healthcare use cases**.
 
-**Tech Stack:**  
-`Python · Agentic AI · PhiData · LLaMA-3 · Groq · Tool Calling · FastAPI`
+**Focus Areas**
 
-📌 *Pin this repository*
+* Agentic AI workflows
+* LLM-powered reasoning
+* Retrieval and contextual information
+* AI application architecture
+* Backend integration
 
----
+**Tech:** `Python · GenAI · Agentic AI · LLMs · RAG · FastAPI`
 
-### 🔹 Agentic AI Video Summarizer (Multimodal)
-A **multimodal AI application** that analyzes video content and augments insights using real-time web search.
-
-**Key Highlights**
-- Gemini-powered video understanding and reasoning  
-- Query-driven video analysis  
-- Streamlit-based interactive UI  
-- Designed for production-style AI workflows  
-
-**Tech Stack:**  
-`Python · Gemini 2.5 Flash · Multimodal LLMs · Streamlit · Agentic AI`
-
-📌 *Pin this repository*
+🔗 **Repository:** [CareFlow MD](#)
 
 ---
 
-### 🔹 AI Chemist
-AI-powered assistant to support **chemical research and analysis**, accelerating scientific workflows using LLM-based reasoning.
+### 🤖 Agentic AI Financial Assistant
 
-**Tech Stack:**  
-`Python · GenAI · Gemini · Prompt Engineering`
+A multi-agent AI system designed for **financial research and analysis**, combining LLM reasoning with external tools and structured outputs.
 
-📌 *Pin this repository*
+**Highlights**
 
----
+* Role-based agent architecture
+* Tool calling for financial and web data
+* Yahoo Finance and DuckDuckGo integration
+* Source-backed responses
+* Structured financial insights
+* FastAPI-based backend and experimentation layer
 
-## 🧰 Tech Stack
+**Tech:** `Python · LLaMA 3 · Groq · PhiData · Agentic AI · Tool Calling · FastAPI`
 
-**Programming & Backend**  
-Python, SQL, PL/SQL, Unix Shell Scripting, FastAPI, Flask  
-
-**GenAI & Agentic AI**  
-LLMs, NLP, RAG, Agentic AI, LangGraph, MCP, Prompt Engineering  
-
-**Machine Learning**  
-scikit-learn, PyTorch, TensorFlow  
-
-**Data & Analytics**  
-Pandas, NumPy, Statistics, Exploratory Data Analysis (EDA), Feature Engineering  
-
-**Tools & Platforms**  
-Docker, Git, GitHub, Streamlit, MySQL, Vector Databases (pgvector)  
-
-**Cloud**  
-AWS (Cloud Foundations)
+🔗 **Repository:** [Agentic AI Financial Assistant](#)
 
 ---
 
-## 🧪 What I’m Currently Exploring
-- LLM evaluation for RAG and agentic workflows  
-- Multi-agent reliability and failure handling  
-- Designing scalable, low-latency GenAI systems  
+### 🎥 Agentic AI Video Summarizer
+
+A multimodal GenAI application that analyzes video content and combines visual understanding with external information retrieval.
+
+**Highlights**
+
+* Gemini-powered multimodal reasoning
+* Query-driven video analysis
+* Web-augmented responses
+* Interactive Streamlit interface
+* AI workflow orchestration
+
+**Tech:** `Python · Gemini · Multimodal LLMs · Agentic AI · Streamlit`
+
+🔗 **Repository:** [Agentic AI Video Summarizer](#)
 
 ---
 
-## 🤝 Let’s Connect
-- 📧 Email: **agarwaljatin5716@gmail.com**  
-- 🔗 LinkedIn: **linkedin.com/in/jatinagarwal03**
+### 🧪 AI Chemist
 
-⭐ If you’re interested in applied AI, agentic systems, or GenAI engineering — feel free to explore my repositories or reach out.
+An AI-powered application exploring how LLMs can assist with **chemical research, analysis, and scientific workflows**.
+
+**Tech:** `Python · Gemini · GenAI · Prompt Engineering`
+
+🔗 **Repository:** [AI Chemist](#)
+
+---
+
+## 🧰 Technical Skills
+
+### AI & GenAI
+
+`LLMs` `Agentic AI` `RAG` `LangGraph` `MCP` `Tool Calling` `Prompt Engineering` `Multimodal AI` `NLP`
+
+### Backend & APIs
+
+`Python` `FastAPI` `Flask` `REST APIs`
+
+### Data & Databases
+
+`SQL` `MySQL` `PostgreSQL` `pgvector` `Vector Databases`
+
+### Machine Learning
+
+`scikit-learn` `PyTorch` `TensorFlow` `Pandas` `NumPy`
+
+### Engineering & Tools
+
+`Docker` `Git` `GitHub` `Streamlit` `Unix Shell`
+
+### Cloud
+
+`AWS`
+
+---
+
+## 🧪 Current Engineering Focus
+
+I'm currently going deeper into:
+
+* Evaluation of **RAG and agentic AI systems**
+* Agent reliability and failure handling
+* Tool-use and workflow orchestration
+* AI observability and tracing
+* Latency and cost optimization for LLM applications
+* Secure and reliable AI system design
+* Building scalable AI backends with Python and FastAPI
+
+---
+
+## 💡 What I Like Building
+
+```text
+LLM Applications
+      ↓
+RAG / Retrieval
+      ↓
+Agents + Tools
+      ↓
+Backend APIs
+      ↓
+Evaluation + Observability
+      ↓
+Reliable AI Products
+```
+
+My goal is to build AI systems that are not only capable, but also **reliable, measurable, and useful in real-world applications**.
+
+---
+
+## 🤝 Connect
+
+📧 **Email:** [agarwaljatin5716@gmail.com](mailto:agarwaljatin5716@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/jatinagarwal03](https://www.linkedin.com/in/jatinagarwal03)
+💻 **GitHub:** [github.com/Jatiinagarwal](https://github.com/Jatiinagarwal)
+
+---
+
+⭐ Interested in **Agentic AI, GenAI, LLM applications, or Applied AI engineering**? Feel free to explore my repositories.
